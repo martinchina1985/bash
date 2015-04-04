@@ -1,0 +1,4 @@
+#/bin/sh
+
+# */5 * * * * martin echo "crontab test at `date +"%Y-%m-%d %T"`" >>/var/run/crontab_test.log 2>&1
+echo "crontab test at `date +"%Y-%m-%d %T"`" >>/var/run/crontab_test.log 2>&1

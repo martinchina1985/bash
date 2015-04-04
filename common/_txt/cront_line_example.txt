@@ -1,0 +1,1 @@
+*/5 * * * * /home/martin/work/src/github/bash/common/test_crontab.sh >/dev/null 2>&1
